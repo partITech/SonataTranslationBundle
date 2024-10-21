@@ -1,6 +1,5 @@
 {
     "name": "sonata-project/translation-bundle",
-    "version": "6.0.0-alpha1",
     "description": "SonataTranslationBundle",
     "license": "MIT",
     "type": "symfony-bundle",
